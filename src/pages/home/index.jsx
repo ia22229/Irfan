@@ -1,11 +1,11 @@
 import React from 'react'
-import Header from '../../shared/Header'
-import Footer from '../../shared/Footer'
+import Section1 from './components/Section1'
+
 
 function Home() {
   return (
     <div className='home'>
-        
+        <Section1/>
     </div>
   )
 }
