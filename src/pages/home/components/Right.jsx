@@ -3,7 +3,7 @@ import React from 'react'
 function Right() {
   return (
     <div className="w-1/2 h-full bg-[#A5A5A5] px-10 py-5">
-      <p>Checkout</p>
+      <p className='text-2xl'>Checkout</p>
       <form className='space-y-5'>
         <div className="flex justify-between">
           <div className="flex flex-col gap-5">
